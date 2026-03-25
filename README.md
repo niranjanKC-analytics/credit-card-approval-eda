@@ -21,7 +21,7 @@ The objective is to understand the structure of the dataset, evaluate the distri
 ## 📈 Key Visualizations
 
 ### Approval Distribution
-![Approval Distribution](visualizations/approval Status Bar Chart.png)
+![Approval Distribution](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/refs/heads/main/visualizations/Approval%20Status%20Bar%20Chart.png)
 
 > The dataset contains slightly more denied applications than approved ones, showing a mildly imbalanced outcome distribution.
 
@@ -36,17 +36,17 @@ The objective is to understand the structure of the dataset, evaluate the distri
 > Income is extremely right-skewed, with a few large outliers pulling the distribution far to the right.
 
 ### Credit Score Distribution
-![Credit Score Distribution](visualizations/credit_score_distribution.png)
+![Credit Score Distribution](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/visualizations/Credit%20Score%20Distribution%20(Histogram).png?raw=true)
 
 > Credit scores are heavily concentrated near zero, suggesting that many applicants have limited or no recorded credit history.
 
 ### Debt vs Approval
-![Debt vs Approval](visualizations/debt_vs_approval_boxplot.png)
+![Debt vs Approval](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/visualizations/Debt%20vs%20Approval%20(Boxplot).png?raw=true)
 
 > Debt distributions overlap substantially between approved and denied applicants, indicating that debt alone does not explain approval outcomes.
 
 ### Income vs Debt
-![Income vs Debt](visualizations/scatter_income_debt.png)
+![Debt vs Approval](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/visualizations/Debt%20vs%20Approval%20(Boxplot).png?raw=true)
 
 > The relationship between income and debt is weak, with a low positive correlation and substantial dispersion across observations.
 
@@ -56,7 +56,7 @@ The objective is to understand the structure of the dataset, evaluate the distri
 > Applicant counts vary across industries, with some sectors more heavily represented in the dataset than others.
 
 ### Industry vs Approval
-![Industry vs Approval](visualizations/industry_vs_approval.png)
+![Industry vs Approval](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/visualizations/Industry%20vs%20Approval%20(Bar%20Chart).png?raw=true)
 
 > Approval outcomes vary by industry, suggesting that categorical factors may contribute to differences in approval patterns.
 
