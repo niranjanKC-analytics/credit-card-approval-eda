@@ -118,14 +118,14 @@ credit-card-approval-eda/
 ## 📊 Presentation
 A presentation was created to communicate key findings and analytical insights:
 
-➡️ [Download Presentation](./presentation/Credit_Card_Approval_EDA_Niranjan.pptx)
+[📥 Download Presentation (PPTX)](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/presentation/Credit_Card_Approval_EDA_Niranjan.pptx)
 
 ---
 
 ## 📄 Full Report
 A detailed written report includes methodology, statistical analysis, and interpretation:
 
-➡️ [View Report](./report/Assignment1_EDA_KC.docx)
+➡️ [📄 Download Full Report (DOCX)](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/report/Assignment1_EDA_KC.docx)
 
 ---
 
