@@ -128,7 +128,13 @@ A detailed written report includes methodology, statistical analysis, and interp
 ➡️ [📄 Download Full Report (DOCX)](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/report/Assignment1_EDA_KC.docx)
 
 ---
+## 💻 Code Implementation
 
+The full data analysis workflow is implemented in R, including data cleaning, visualization, and statistical analysis.
+
+👉 [View R Script](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/scripts/Assignment1_EDA_KC.R)
+
+---
 ## 🧰 Tools & Technologies
 - R
 - ggplot2
