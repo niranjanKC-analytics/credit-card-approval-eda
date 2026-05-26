@@ -152,5 +152,7 @@ The full data analysis workflow is implemented in R, including data cleaning, vi
 
 ## 👤 Author
 **Niranjan K C**  
-Information Technology Student – Towson University  
-Aspiring Data Analyst / Data Scientist
+Data Analyst | B.S. Information Technology — Towson University, May 2026
+GitHub: github.com/niranjanKC-analytics
+LinkedIn: linkedin.com/in/niranjan-k-c-44b681334
+Tableau: public.tableau.com/app/profile/niranjan.k.c5704/vizzes
